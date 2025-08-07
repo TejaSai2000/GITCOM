@@ -1,0 +1,2 @@
+# GITCOM
+Pratctice git commands
